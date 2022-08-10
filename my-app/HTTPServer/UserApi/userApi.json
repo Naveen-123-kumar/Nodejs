@@ -1,0 +1,26 @@
+[
+    {
+    "id":1,
+    "name": "Naveen",
+    "email":"naveen@gmail.com",
+    "address":{
+        "village":"Fatahpur Pakri",
+        "Post":"Piroi",
+        "PS":"Mahua",
+        "Dist":"Vaishali",
+        "State":"Bihar"
+}
+    },
+{
+    "id":1,
+    "name": "Sapna",
+    "email":"Sapna@gmail.com",
+    "address":{
+        "village":"Mahua",
+        "Post":"Piroi",
+        "PS":"Mahua",
+        "Dist":"Vaishali",
+        "State":"Bihar"
+}
+}
+]
