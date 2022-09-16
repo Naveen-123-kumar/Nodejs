@@ -23,7 +23,7 @@ const fs=require('fs');
 // fs.writeFile('./Asyn/bio.txt','Naveen is a SDE1',(e)=>{
 //     console.log('File Created');
 // })
-fs.writeFile('tem.txt','Naveen loves Sapna',(err)=>{
+fs.writeFile('tem.txt','Naveen loves Coding',(err)=>{
     console.log('File has been created')
     console.log(err)
 })
